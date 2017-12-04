@@ -1,12 +1,3 @@
-'''
-Genetic Algorithm for the Travelling Salesman Problem
-v1.0
-by
-JackFrigaard
-mail@jackf.net
-Written for Python 3.1+
-'''
-
 import random
 import copy
 import os
